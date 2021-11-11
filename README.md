@@ -1,4 +1,4 @@
-Hadoop MapReduce Assignments <br>
+Hadoop MapReduce and Spark Scala Assignments <br>
 Fall 2020, CS6240
 
 Current version Code author:
