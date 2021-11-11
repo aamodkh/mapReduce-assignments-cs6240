@@ -19,7 +19,7 @@ These components are installed:
 
 Environment
 -----------
-1) Example ~/.bashrc:
+Example ~/.bashrc:
 
 export HADOOP_HOME=/home/forhadoop/hadoop-3.2.1<br>
 export HADOOP_INSTALL=$HADOOP_HOME<br>
@@ -33,9 +33,8 @@ export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib/native"<br>
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64<br>
 
 
-2) Explicitly set JAVA_HOME and HADOOP_CONF_DIR in $HADOOP_HOME/etc/hadoop/hadoop-env.sh:<br>
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
-<br>
+Explicitly set JAVA_HOME and HADOOP_CONF_DIR in $HADOOP_HOME/etc/hadoop/hadoop-env.sh:<br>
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64<br>
 export HADOOP_CONF_DIR=${HADOOP_HOME}/etc/hadoop
 
 Execution
