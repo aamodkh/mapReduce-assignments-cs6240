@@ -1,6 +1,5 @@
-Hadoop MapReduce Twitter Dataset follower count
-code for Homework1: CS6240
-Fall 2020
+Hadoop MapReduce and Spark Scala Assignments
+Fall 2020, CS6240
 
 Current version Code author:
 ---------------------
