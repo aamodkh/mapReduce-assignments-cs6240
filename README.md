@@ -33,7 +33,7 @@ export HADOOP_OPTS="-Djava.library.path=$HADOOP_HOME/lib/native"<br>
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64<br>
 
 
-2) Explicitly set JAVA_HOME and HADOOP_CONF_DIR in $HADOOP_HOME/etc/hadoop/hadoop-env.sh:
+2) Explicitly set JAVA_HOME and HADOOP_CONF_DIR in $HADOOP_HOME/etc/hadoop/hadoop-env.sh:<br>
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 <br>
 export HADOOP_CONF_DIR=${HADOOP_HOME}/etc/hadoop
