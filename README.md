@@ -42,7 +42,7 @@ Execution
 All of the build & execution commands are organized in the Makefile.
 1) Unzip respective project file.
 2) Open command prompt.
-3) Navigate to directory where project files unzipped.
+3) Navigate to directory where the project files is unzipped.
 4) Edit the Makefile to customize the environment at the top.
 	Sufficient for standalone: hadoop.root, jar.name, local.input <br>
 	Other defaults acceptable for running standalone.
